@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amena</h1>
 <h3 align="center">A frontend developer from India</h3>
 
-- 🔭 I’m currently working on **A Yu-Gi-Oh! cards search and filter app**
+- 🔭 I’m currently working on my **portfolio**
 
 - 🌱 I’m currently learning **React Js, Tailwind CSS**
 
